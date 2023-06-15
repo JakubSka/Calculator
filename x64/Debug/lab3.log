@@ -1,0 +1,6 @@
+﻿  Calculator.cpp
+C:\Users\kubaj\source\repos\lab3\Calculator.cpp(28,24): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+  lab3.cpp
+C:\Users\kubaj\source\repos\lab3\lab3.cpp(69,10): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Generowanie kodu...
+  lab3.vcxproj -> C:\Users\kubaj\source\repos\lab3\x64\Debug\lab3.exe
